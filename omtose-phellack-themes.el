@@ -1,4 +1,4 @@
-;;; omtose-phellack-theme.el --- Two dark themes, with cold blusish touch.
+;;; omtose-phellack-themes.el --- Two dark themes, with cold blusish touch.
 
 ;; Copyright (C) 2016 Alexander F. Adhyatma
 
@@ -32,6 +32,6 @@
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide 'omtose-phellack-theme)
+(provide 'omtose-phellack-themes)
 
-;;; omtose-phellack-theme.el ends here.
+;;; omtose-phellack-themes.el ends here.
